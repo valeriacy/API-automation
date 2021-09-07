@@ -1,0 +1,51 @@
+//Nombre= Valeria
+//Apellido = Cartagena
+//Edad = 25
+//Profesion = Ingenieria de Sistemas
+
+#Pares clave valor
+{
+"Nombre": "Valeria",
+"Apellido" :"Cartagena",
+"Edad" : 25,
+"Profesion" : "Ingenieria de Sistemas"
+
+}
+
+#Array
+{
+"Nombre": "Valeria",
+"Apellido" :"Cartagena",
+"Edad" : 25,
+"Profesion" : "Ingenieria de Sistemas"
+"Direccion": ["Direccion 1", "Direccion 2", "Direccion 3"]
+
+}
+
+
+#Matriz
+{
+"Nombre": "Valeria",
+"Apellido":"Cartagena",
+"Edad": 25,
+"Profesion": "Ingenieria de Sistemas"
+"Direccion": ["Direccion 1", "Direccion 2", "Direccion 3"]
+"Nacionalidades : [
+{
+"Pais": "India",
+"Data :{
+"Capital": "New Delhi",
+"Altitud ": 3443,
+"Longitud": 343
+},
+
+
+{
+"Pais": "Bolivia",
+"Data :{
+"Capital": "La Paz",
+"Altitud ": 3443,
+"Longitud": 343
+}
+}]
+}
